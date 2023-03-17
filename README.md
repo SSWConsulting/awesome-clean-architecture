@@ -19,6 +19,7 @@ A collection of the community Clean Architecture templates that are tried and pr
 - [SSW - Clean Architecture](https://github.com/SSWConsulting/CleanArchitectureV2)
 - [Jason Taylor - Clean Architecture](https://github.com/jasontaylordev/CleanArchitecture)
 - [Steve Smith - Clean Architecture](https://github.com/ardalis/CleanArchitecture)
+- [BlazorHero - Clean Architecture](https://github.com/blazorhero/CleanArchitecture)
 
 ## Reference Architectures
 
@@ -31,6 +32,10 @@ A collection of the community Clean Architecture templates that are tried and pr
 
 - [List item](http://example.com)
 - [List item](http://example.com)
+
+### API
+
+- [GraphQL](https://github.com/danielmackay/dotnet-clean-architecture-graphql)
 
 ## Compelling Examples
 
