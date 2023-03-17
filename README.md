@@ -9,6 +9,7 @@
 - [Reference Architectures](#reference-architectures)
   - [Identity](#identity)
   - [Frontend](#frontend)
+  - [API](#api)
 - [Compelling Examples](#compelling-examples)
 
 
