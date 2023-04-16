@@ -38,6 +38,10 @@ A collection of the community Clean Architecture templates that are tried and pr
 
 - [GraphQL](https://github.com/danielmackay/dotnet-clean-architecture-graphql)
 
+### DDD
+
+- [Domain Driven Design](https://github.com/danielmackay/dotnet-ef-domain-driven-design)
+
 ## Compelling Examples
 
 More complete repositories that demonstrate a use case for Clean Architecture in action as a good example.
