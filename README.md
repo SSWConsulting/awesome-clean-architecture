@@ -31,24 +31,26 @@ A collection of the community Clean Architecture templates that are tried and pr
 
 ### Frontend
 
-- [List item](http://example.com)
+- [MAUICleanTodos - a .NET MAUI and Blazor Todo app using Clean Architecture with full-stack code sharing](https://github.com/matt-goldman/MauiCleanTodos)
 - [List item](http://example.com)
 
 ### API
 
-- [GraphQL](https://github.com/danielmackay/dotnet-clean-architecture-graphql)
+- [.NET Clean Architecture GraphQL - An example of a scalable and maintainable CA solution with a felxible GraphQL API](https://github.com/danielmackay/dotnet-clean-architecture-graphql)
 
 ### DDD
 
-- [Domain Driven Design](https://github.com/danielmackay/dotnet-ef-domain-driven-design)
+- [Domain Driven Design - An example of an application using CA principles and DDD](https://github.com/danielmackay/dotnet-ef-domain-driven-design)
 
+<!--
+NOTE: Commenting this section as it's difficult to find a compelling (i.e. non-teaching) example that isn't private. If we find one we can uncomment this section.
 ## Compelling Examples
 
 More complete repositories that demonstrate a use case for Clean Architecture in action as a good example.
 
 - [List item](http://example.com)
 - [List item](http://example.com)
-
+-->
 
 ## Contribute
 
