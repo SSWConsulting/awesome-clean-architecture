@@ -2,16 +2,14 @@
 
 > A curated list of templates, reference architectures, compelling examples and learning resources all about Clean Architecture
 
-
 ## Contents
 
 - [Templates](#templates)
 - [Reference Architectures](#reference-architectures)
-  - [Identity](#identity)
+  <!-- - [Identity](#identity) -->
   - [Frontend](#frontend)
   - [API](#api)
-- [Compelling Examples](#compelling-examples)
-
+<!-- - [Compelling Examples](#compelling-examples) -->
 
 ## Templates
 
@@ -21,13 +19,16 @@ A collection of the community Clean Architecture templates that are tried and pr
 - [Jason Taylor - Clean Architecture](https://github.com/jasontaylordev/CleanArchitecture)
 - [Steve Smith - Clean Architecture](https://github.com/ardalis/CleanArchitecture)
 - [BlazorHero - Clean Architecture](https://github.com/blazorhero/CleanArchitecture)
+- [Phong Nguyen - Clean Architecture](https://github.com/phongnguyend/Practical.CleanArchitecture)
 
 ## Reference Architectures
+
+<!-- Removing until we have some Identity related reference architectures
 
 ### Identity
 
 - [List item](http://example.com)
-- [List item](http://example.com)
+- [List item](http://example.com) -->
 
 ### Frontend
 
