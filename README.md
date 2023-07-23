@@ -1,4 +1,8 @@
+![SSW Banner](https://raw.githubusercontent.com/SSWConsulting/SSW.Rules.Content/main/_docs/images/ssw-banner.png)
+
 # Awesome Clean Architecture [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/SSWConsulting/awesome-clean-architecture/issues)
 
 > A curated list of templates, reference architectures, compelling examples and learning resources all about Clean Architecture
 
