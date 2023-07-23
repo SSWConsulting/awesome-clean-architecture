@@ -2,11 +2,7 @@
 
 # Awesome Clean Architecture [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<div align="center">
-
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/SSWConsulting/awesome-clean-architecture/issues)
-
-</div>
 
 > A curated list of templates, reference architectures, compelling examples and learning resources all about Clean Architecture
 
