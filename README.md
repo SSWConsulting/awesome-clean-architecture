@@ -37,7 +37,6 @@ A collection of the community Clean Architecture templates that are tried and pr
 ### Frontend
 
 - [MAUICleanTodos - a .NET MAUI and Blazor Todo app using Clean Architecture with full-stack code sharing](https://github.com/matt-goldman/MauiCleanTodos)
-- [List item](http://example.com)
 
 ### API
 
