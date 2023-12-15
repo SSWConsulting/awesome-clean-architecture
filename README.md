@@ -37,6 +37,7 @@ A collection of the community Clean Architecture templates that are tried and pr
 ### Frontend
 
 - [MAUICleanTodos - a .NET MAUI and Blazor Todo app using Clean Architecture with full-stack code sharing](https://github.com/matt-goldman/MauiCleanTodos)
+- [Northwind365 - an Angular frontend and ASP.NET Core 8 backend using Clean Architecture](https://github.com/SSWConsulting/Northwind365)
 
 ### API
 
