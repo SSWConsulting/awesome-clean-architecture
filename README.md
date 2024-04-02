@@ -21,8 +21,8 @@ A collection of the community Clean Architecture templates that are tried and pr
 
 - [SSW - Clean Architecture](https://github.com/SSWConsulting/CleanArchitectureV2)
 - [Jason Taylor - Clean Architecture](https://github.com/jasontaylordev/CleanArchitecture)
-- [Steve Smith - Clean Architecture](https://github.com/ardalis/CleanArchitecture)
-- [BlazorHero - Clean Architecture](https://github.com/blazorhero/CleanArchitecture)
+- [Steve Smith (Ardalis) - Clean Architecture](https://github.com/ardalis/CleanArchitecture)
+- [Amichai - Clean Architecture](https://github.com/amantinband/clean-architecture)
 - [Phong Nguyen - Clean Architecture](https://github.com/phongnguyend/Practical.CleanArchitecture)
 
 ## Reference Architectures
